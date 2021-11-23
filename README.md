@@ -1,6 +1,6 @@
 - 👋 Hi, I’m xicong
 - 👀 I’m interested in python
-- 🌱 I’m currently learning pytho
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
